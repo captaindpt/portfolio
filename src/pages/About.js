@@ -88,7 +88,7 @@ function About() {
       </ul>
       <p>and some other stuff:</p>
       <ul>
-        in the past as a part time or a summber job i've also worked as:
+        in the past as a part time or a summer job i've also worked as:
         <li>
           painter
         </li>

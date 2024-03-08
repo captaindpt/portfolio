@@ -1,6 +1,7 @@
-![landing page]()
+# React Personal Website
 
-portfolio project
+This project is a responsive personal website built with React. It showcases a portfolio, about me section, and contact information. 
 
-inspired by [quinn](https://quinnha.xyz/)
+![Landing Page](/public/landing_page.png)
 
+Inspired by [quinn](https://quinnha.xyz/).
